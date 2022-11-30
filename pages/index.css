@@ -16,18 +16,20 @@
 }
 
 .color-info {
+  padding: 0 8px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   border-radius: 10px;
   background-color: #222;
   color: #fff;
-  min-width: 500px;
+  min-width: 540px;
   height: 75px;
   font-size: 32px;
 }
 
 .color-code {
+  margin-left: 15px;
   color: blueviolet;
 }
 
