@@ -18,5 +18,3 @@ function changeColor() {
 }
 
 colorChangerButton.addEventListener('click', changeColor)
-
-console.log(Math.random(2) * 10)
